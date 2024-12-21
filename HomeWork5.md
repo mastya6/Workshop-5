@@ -43,26 +43,26 @@
 ### Ход работы
 
 #### Часть 1
-![packeges](https://github.com/ ТВОЙ РЕПОЗИТОРИЙ /packeges.png)
-![start](https://github.com/ ТВОЙ РЕПОЗИТОРИЙ /start.png)
-![multi](https://github.com/ ТВОЙ РЕПОЗИТОРИЙ /multi.png)
-![script](https://github.com/ ТВОЙ РЕПОЗИТОРИЙ /script.png)
-![resultroller](https://github.com/ ТВОЙ РЕПОЗИТОРИЙ /resultroller.png)
-![withlearn](https://github.com/ ТВОЙ РЕПОЗИТОРИЙ /withlearn.png)
+![packeges](https://github.com/mastya6/Workshop-5/blob/main/packeges.png)
+![start](https://github.com/mastya6/Workshop-5/blob/main/start.png)
+![multi](https://github.com/mastya6/Workshop-5/blob/main/multi.png)
+![script](https://github.com/mastya6/Workshop-5/blob/main/script.png)
+![resultroller](https://github.com/mastya6/Workshop-5/blob/main/resultroller.png)
+![withlearn](https://github.com/mastya6/Workshop-5/blob/main/withlearn.png)
 _____________________________________________________________________________________________
 
 #### Часть 2
-![starteco](https://github.com/ ТВОЙ РЕПОЗИТОРИЙ /starteco.png)
-![miners](https://github.com/ ТВОЙ РЕПОЗИТОРИЙ /economics.png)
-![resulteco](https://github.com/ ТВОЙ РЕПОЗИТОРИЙ /resulteco.png)
-![graphs](https://github.com/ ТВОЙ РЕПОЗИТОРИЙ /graphs.png)
+![starteco](https://github.com/mastya6/Workshop-5/blob/main/starteco.png)
+![miners](https://github.com/mastya6/Workshop-5/blob/main/economics.png)
+![resulteco](https://github.com/mastya6/Workshop-5/blob/main/resulteco.png)
+![graphs](https://github.com/mastya6/Workshop-5/blob/main/graphs.png)
 
 ## Задание 1
 ### Найдите внутри C# скрипта “коэффициент корреляции”
 В этом случае коэффициент корреляции это tempInf.
 tempInf — это процентное изменение цены между двумя месяцами
 
-![corr](https://github.com/ ТВОЙ РЕПОЗИТОРИЙ /corr.png)
+![corr](https://github.com/mastya6/Workshop-5/blob/main/corr.png)
 
 #### Влияние на обучение:
 1.Если tempInf низкий (≤6):
